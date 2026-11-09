@@ -21,7 +21,7 @@ window.SITE = {
 
   server: { host: 'RageHvH.mooo.com:24601', display: 'RageHvH.mooo.com:24601' },
 
-  music: { src: 'assets/song.mp3', title: 'Четыре Тридцать', artist: 'Violeta Sokolova', cover: 'assets/cover.png' },
+  music: { src: 'assets/song.mp3', title: 'Четыре Тридцать', artist: 'Violetta Sokolova', cover: 'assets/cover.png' },
 
   // Discord ID (нужно зайти на сервер discord.gg/lanyard); пока пусто, блок покажет подсказку
   discord: { id: '1560311951341391886', name: '! thekosti ! lua/luau', username: '@thekostizz', avatar: 'assets/avatar.png' },
