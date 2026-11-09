@@ -30,10 +30,10 @@ window.SITE = {
   // tags: 'owner' (Владелец), 'design' (Дизайн), 'coder' (Кодер) или любой свой текст
   projects: [
     { name: 'TheKosti23 Bio', url: 'https://example.com', domain: 'example', tld: '.com',
-      color: '#40a0ff', icon: 'assets/favicon.svg', tags: ['owner', 'coder'] },
+      color: '#ff9af5', icon: 'assets/favicon.svg', tags: ['owner', 'coder'] },
     
     { name: 'RageHvH', url: 'https://RageHvH.mooo.com', domain: 'RageHvH.mooo.com:24601', tld: '.com',
-      color: '#40a0ff', icon: 'assets/rage.png', tags: ['helper', 'coder'] }
+      color: '#ff4040', icon: 'assets/rage.png', tags: ['helper', 'coder'] }
   ],
 
   skills: {
