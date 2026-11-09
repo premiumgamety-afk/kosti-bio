@@ -7,7 +7,7 @@ window.SITE = {
   nick: 'TheKosti23',
   logo: 'TheKosti23 solution',
   role: 'Backend',
-  hero: 'Короткое приветствие над кнопками.',
+  hero: 'Йоу, рад снова видеть! Всё, что ты видишь, — результат работы нейросетей и моей фантазии. Я не просто экспериментировал — я создал проекты, которые реально приносят деньги. Мир стремительно меняется, и будущее принадлежит тем, кто умеет использовать нейросети.',
   telegram: 'https://t.me/f4cked666',
 
   titleAnimation: 'TheKosti23 Bio',   // анимация названия вкладки: 'Текст' или false
@@ -15,7 +15,7 @@ window.SITE = {
 
   about: {
     intro: 'Если бы мне сказали описать себя в 40 словах, я бы сказал так:',
-    text: 'Рассказ о себе.',
+    text: 'Я всего лишь в 6-м классе, но уже добился для себя значимого результата. Пока кто-то тратит время на игры, я придумываю новые идеи и превращаю их в прибыль. Успеваю совмещать отличную учёбу с проектами и всегда нахожу время, чтобы создавать что-то своё.',
     avatar: 'assets/avatar.png'
   },
 
@@ -30,17 +30,17 @@ window.SITE = {
   // tags: 'owner' (Владелец), 'design' (Дизайн), 'coder' (Кодер) или любой свой текст
   projects: [
     { name: 'TheKosti23 Bio', url: 'https://example.com', domain: 'example', tld: '.com',
-      color: '#40a0ff', icon: 'assets/bio.png', tags: ['owner', 'coder'] },
+      color: '#40a0ff', icon: 'assets/favicon.png', tags: ['owner', 'coder'] },
     
     { name: 'RageHvH', url: 'https://RageHvH.mooo.com', domain: 'RageHvH.mooo.com:24601', tld: '.com',
-      color: '#40a0ff', icon: 'assets/bio.png', tags: ['helper', 'coder'] }
+      color: '#40a0ff', icon: 'assets/rage.png', tags: ['helper', 'coder'] }
   ],
 
   skills: {
     intro: 'Коротко о навыках.',
-    backend:  { text: 'Разрабатываю эффективные backend-системы с акцентом на стабильность, отказоустойчивость и простоту интеграции в существующую инфраструктуру.',  chips: [['Java','java'],['Python','python']] },
+    backend:  { text: 'Разрабатываю эффективные backend-системы с акцентом на стабильность, отказоустойчивость и простоту интеграции в существующую инфраструктуру.',  chips: [['Java','java'],['Python','python'],['Lua','lua']] },
     frontend: { text: 'Работаю с фронтендом, но больше всего вдохновляюсь не кодом, а дизайном — люблю превращать идеи в удобные и красивые интерфейсы, которые приятно использовать.', chips: [['HTML','html'],['CSS','css']] }
   },
 
-  footer: { logo: 'example.com | TheKosti23', note: 'Весь этот сайт сделала нейросеть, за исключением дтзайна, вдозновился у zow.mooo.com' }
+  footer: { logo: 'example.com | TheKosti23', note: 'Весь этот сайт сделала нейросеть, за исключением дизайна, вдохновился у zow.mooo.com' }
 };
