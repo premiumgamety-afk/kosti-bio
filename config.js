@@ -19,7 +19,7 @@ window.SITE = {
     avatar: 'assets/avatar.png'
   },
 
-  server: { host: 'RageHvH.mooo.com:24601', display: 'RageHvH.mooo.com:24601' },
+  server: { host: 'RageHvH.my.to:24601', display: 'RageHvH.my.to:24601' },
 
   music: { src: 'assets/song.mp3', title: 'Четыре Тридцать', artist: 'Violetta Sokolova', cover: 'assets/cover.png' },
 
@@ -29,10 +29,10 @@ window.SITE = {
   projectsIntro: 'Коротко о проектах.',
   // tags: 'owner' (Владелец), 'design' (Дизайн), 'coder' (Кодер) или любой свой текст
   projects: [
-    { name: 'TheKosti23 Bio', url: 'https://example.com', domain: 'example', tld: '.com',
+    { name: 'TheKosti23 Bio', url: 'httpa://zovv.my.to', domain: 'zovv', tld: '.my.to',
       color: '#ff9af5', icon: 'assets/favicon.svg', tags: ['owner', 'coder'] },
     
-    { name: 'RageHvH', url: 'https://RageHvH.mooo.com', domain: 'RageHvH.mooo.com:24601', tld: '.com',
+    { name: 'RageHvH', url: 'https://RageShop.my.to', domain: 'RageHvH', tld: '.my.to',
       color: '#ff4040', icon: 'assets/rage.png', tags: ['co-owner', 'coder'] }
   ],
 
@@ -42,5 +42,5 @@ window.SITE = {
     frontend: { text: 'Работаю с фронтендом, но больше всего вдохновляюсь не кодом, а дизайном — люблю превращать идеи в удобные и красивые интерфейсы, которые приятно использовать.', chips: [['HTML','html'],['CSS','css']] }
   },
 
-  footer: { logo: 'example.com | TheKosti23', note: 'Весь этот сайт сделала нейросеть, за исключением дизайна, вдохновился у zow.mooo.com' }
+  footer: { logo: 'zovv.my.to | TheKosti23', note: 'Весь этот сайт сделала нейросеть, за исключением дизайна, вдохновился у zow.my.to' }
 };
