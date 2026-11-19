@@ -22,7 +22,7 @@ window.SITE = {
   server: { host: 'RageHvH.my.to:24601', display: 'RageHvH.my.to:24601' },
   
   visitors: {
-    db: 'https://console.firebase.google.com/project/thekosti-bio/database/thekosti-bio-default-rtdb'
+    db: 'https://thekosti-bio-default-rtdb.europe-west1.firebasedatabase.app'
   },
 
   music: { src: 'assets/song.mp3', title: 'Четыре Тридцать', artist: 'Violetta Sokolova', cover: 'assets/cover.png' },
